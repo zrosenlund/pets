@@ -8,8 +8,7 @@
     //Define a default route
     $f3->route('GET /', function() {
         $view = new View;
-        echo $view->render
-        ('views/home.html');
+        echo $view->render('views/home.html');
     }
     );
 
