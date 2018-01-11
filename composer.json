@@ -1,0 +1,16 @@
+{
+  "name": "zrosenlu/pets",
+  "authors":[
+    {
+      "name":"Zachary Rosenlund",
+      "email":"zrosenlund@mail.greenriver.edu"
+    },
+    {
+      "name":"Jarod Bose",
+      "email":"jbose@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core":"dev-master"
+  }
+}
